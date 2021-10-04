@@ -17,7 +17,17 @@ font-weight: bold;
 
 }
 
-
+p{
+    font-size: 14px;
+}
+h2{
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+a.font-black{
+    color: black !important;
+}
 /***************
 about
 **************/
@@ -61,6 +71,29 @@ margin-top: 14px;
 font-size: 30px;   
     margin-top: 20px;
 }
+
 #about .icons a{
     color: black;
+}
+
+
+/*******************************
+
+Project
+*********************************/
+
+#project{
+    margin: 60px;
+    width: 80%;
+}
+#project h2{
+    text-align: center;
+}
+
+#project card{
+    width: 100%;
+}
+
+#project .card-title{
+    font-weight: bold;
 }
