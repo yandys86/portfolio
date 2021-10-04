@@ -11,3 +11,56 @@ body{
 .font-primary{
     color: aqua;
 }
+.title-icon{
+font-size: 20px;
+font-weight: bold;
+
+}
+
+
+/***************
+about
+**************/
+#about{
+    margin: 60px auto;
+    max-width: 400px;
+    text-align: center;
+}
+
+#about img{
+    border-radius: 50px;
+    width: 120px;
+    margin-bottom: 10px;
+
+}
+
+#about .name{
+    font-size: 19px;
+    font-weight: bold;
+}
+#about .vocation{
+    font-size: 17px;
+    color: gray;
+    margin-bottom: 10px;
+    
+}
+
+#about .skills{
+    font-size: 14px;
+    color: cadetblue;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+#about .email{
+font-size: 10;
+margin-top: 14px;
+
+}
+
+#about .icons{
+font-size: 30px;   
+    margin-top: 20px;
+}
+#about .icons a{
+    color: black;
+}
